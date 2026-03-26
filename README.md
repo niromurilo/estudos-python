@@ -5,7 +5,7 @@ Exercícios e anotações do curso Python Impressionador - Hashtag Treinamentos
 Repositório com exercícios e anotações do curso Python Impressionador.
 
 ## Módulos concluídos
-- [X] Lógica de programação
+- [X]Lógica de programação
 - [X] Dicionários em Python
 - [X] Iterables (Range, Set)
 - [ ] Funções
