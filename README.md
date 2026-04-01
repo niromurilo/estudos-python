@@ -14,7 +14,7 @@ Repositório com exercícios e anotações do curso Python Impressionador.
 
 ## Tecnologias
 - Python 3
-- Google Colab
+- Vs Code
 
 ## Sobre mim
 Estudante de Python e IA em formação pela Hashtag Treinamentos.
