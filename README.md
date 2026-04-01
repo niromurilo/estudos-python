@@ -8,7 +8,7 @@ Repositório com exercícios e anotações do curso Python Impressionador.
 - [x] Lógica de programação
 - [x] Dicionários em Python
 - [x] Iterables (Range, Set)
-- [ ] Funções
+- [x] Funções
 - [ ] Pandas
 - [ ] NumPy
 
