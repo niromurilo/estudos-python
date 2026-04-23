@@ -9,9 +9,14 @@ Repositório com exercícios e anotações do curso Python Impressionador.
 - [x] Dicionários em Python
 - [x] Iterables (Range, Set)
 - [x] Funções
+- [x] List Comprehension  
+- [x] Exercícios Extras de Revisão
+- [x] Módulos, Bibliotecas e OOP
+- [x] Exercícios e O que falta aprender
+- [x] Checkpoint — Básico concluído ✅
 - [ ] Pandas
 - [ ] NumPy
-
+      
 ## Tecnologias
 - Python 3
 - Vs Code
