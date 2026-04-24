@@ -44,7 +44,7 @@ Atualizado conforme avanço nos módulos.
 - [ ] 24. Integração Python com Arquivos txt e PDF
 - [ ] 25. Integração Python — Arquivos e Pastas
 - [ ] 26. Integração Python — E-mail
-- [ ] 27. Integração Python — SQL ⭐ (gatilho para candidaturas)
+- [ ] 27. Integração Python — SQL ⭐
 - [ ] 28. Automação Web com Selenium
 - [ ] 29. Web-Scraping com BeautifulSoup
 
