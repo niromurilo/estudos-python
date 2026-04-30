@@ -38,7 +38,7 @@ Atualizado conforme avanço nos módulos.
 
 ## 🔄 Intermediário (1/10 concluídos)
 - [x] 20. Functions como parâmetro e Lambda
-- [ ] 21. Análise de Dados com Pandas + Excel
+- [x] 21. Análise de Dados com Pandas + Excel
 - [ ] 22. Revisão e Aprofundamento de Pandas
 - [ ] 23. Como ler documentações
 - [ ] 24. Integração Python com Arquivos txt e PDF
