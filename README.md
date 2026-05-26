@@ -5,7 +5,7 @@ Atualizado conforme avanço nos módulos.
 
 **👤 Autor:** Murilo (Niro) Santos
 **🔗 LinkedIn:** [linkedin.com/in/murilo-niro](https://linkedin.com/in/murilo-niro)
-**🎯 Objetivo:** Desenvolvedor Backend Python Júnior
+**🎯 Objetivo:** Desenvolvedor Backend ou Analisador de Dados Python Júnior
 
 ---
 
@@ -36,15 +36,15 @@ Atualizado conforme avanço nos módulos.
 
 ---
 
-## 🔄 Intermediário (1/10 concluídos)
+## 🔄 Intermediário (5/10 concluídos)
 - [x] 20. Functions como parâmetro e Lambda
 - [x] 21. Análise de Dados com Pandas + Excel
-- [ ] 22. Revisão e Aprofundamento de Pandas
-- [ ] 23. Como ler documentações
+- [x] 22. Revisão e Aprofundamento de Pandas
+- [x] 23. Como ler documentações
 - [ ] 24. Integração Python com Arquivos txt e PDF
 - [ ] 25. Integração Python — Arquivos e Pastas
 - [ ] 26. Integração Python — E-mail
-- [ ] 27. Integração Python — SQL ⭐
+- [x] 27. Integração Python — SQL ⭐
 - [ ] 28. Automação Web com Selenium
 - [ ] 29. Web-Scraping com BeautifulSoup
 
@@ -95,6 +95,6 @@ Atualizado conforme avanço nos módulos.
 ## 📊 Progresso geral
 - Fundamentos: ✅ 13/13
 - Básico: ✅ 6/6
-- Intermediário: 🔄 1/10
+- Intermediário: 🔄 5/10
 - Avançado: ⏳ 0/9
 - Impressionador: ⏳ 0/10
