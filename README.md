@@ -52,7 +52,7 @@ Atualizado conforme avanço nos módulos.
 
 ## ⏳ Avançado (0/9 concluídos)
 - [ ] 30. Tratamento de Erros
-- [ ] 31. Programação Orientada a Objeto (avançado)
+- [x] 31. Programação Orientada a Objeto (avançado)
 - [ ] 32. Decorators
 - [ ] 33. Generators
 - [ ] 34. Context Managers
@@ -88,7 +88,6 @@ Atualizado conforme avanço nos módulos.
 - Python 3
 - VS Code
 - Git e GitHub
-- Google Colab
 
 ---
 
