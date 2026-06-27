@@ -50,7 +50,7 @@ Atualizado conforme avanço nos módulos.
 
 ---
 
-## ⏳ Avançado (0/9 concluídos)
+## 🔄 Avançado (1/9 concluídos)
 - [ ] 30. Tratamento de Erros
 - [x] 31. Programação Orientada a Objeto (avançado)
 - [ ] 32. Decorators
@@ -92,8 +92,8 @@ Atualizado conforme avanço nos módulos.
 ---
 
 ## Progresso geral
-- Fundamentos: ✅ 13/13
+- Fundamentos: ✅ 13/13 
 - Básico: ✅ 6/6
-- Intermediário: 🔄 5/10
-- Avançado: ⏳ 0/9
-- Impressionador: ⏳ 0/10
+- Intermediário: 🔄 6/10
+- Avançado: 🔄 1/9
+- Impressionador: 🔄 1/10
