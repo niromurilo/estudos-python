@@ -5,7 +5,7 @@ Atualizado conforme avanço nos módulos.
 
 ** Autor:** Murilo (Niro) Santos
 **🔗 LinkedIn:** [linkedin.com/in/murilo-niro](https://linkedin.com/in/murilo-niro)
-** Objetivo:** AI Enginner
+** Objetivo:** Conseguir ser um AI Engineer
 
 ---
 
