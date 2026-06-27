@@ -3,9 +3,9 @@
 Repositório com exercícios e anotações do curso Python Impressionador.
 Atualizado conforme avanço nos módulos.
 
-**👤 Autor:** Murilo (Niro) Santos
+** Autor:** Murilo (Niro) Santos
 **🔗 LinkedIn:** [linkedin.com/in/murilo-niro](https://linkedin.com/in/murilo-niro)
-**🎯 Objetivo:** Desenvolvedor Backend ou Analisador de Dados Python Júnior
+** Objetivo:** AI Enginner
 
 ---
 
@@ -36,15 +36,15 @@ Atualizado conforme avanço nos módulos.
 
 ---
 
-## 🔄 Intermediário (5/10 concluídos)
+## 🔄 Intermediário (6/10 concluídos)
 - [x] 20. Functions como parâmetro e Lambda
 - [x] 21. Análise de Dados com Pandas + Excel
 - [x] 22. Revisão e Aprofundamento de Pandas
 - [x] 23. Como ler documentações
-- [ ] 24. Integração Python com Arquivos txt e PDF
+- [x] 24. Integração Python com Arquivos txt e PDF
 - [ ] 25. Integração Python — Arquivos e Pastas
 - [ ] 26. Integração Python — E-mail
-- [x] 27. Integração Python — SQL ⭐
+- [x] 27. Integração Python — SQL 
 - [ ] 28. Automação Web com Selenium
 - [ ] 29. Web-Scraping com BeautifulSoup
 
@@ -58,13 +58,13 @@ Atualizado conforme avanço nos módulos.
 - [ ] 34. Context Managers
 - [ ] 35. Manipulação de APIs
 - [ ] 36. Banco de dados com SQLAlchemy
-- [ ] 37. FastAPI — criação de APIs REST ⭐
+- [ ] 37. FastAPI — criação de APIs REST 
 - [ ] 38. Testes com Pytest
 
 ---
 
-## ⏳ Impressionador (0/10 concluídos)
-- [ ] 39. NumPy
+## 🔄 Impressionador (1/10 concluídos)
+- [x] 39. NumPy
 - [ ] 40. Matplotlib e Visualização de dados
 - [ ] 41. Seaborn
 - [ ] 42. Scikit-learn — Machine Learning
@@ -77,21 +77,21 @@ Atualizado conforme avanço nos módulos.
 
 ---
 
-## 🏗️ Projetos desenvolvidos
+## Projetos desenvolvidos
 | Projeto | Descrição | Link |
 |---|---|---|
 | Agenda de Contatos | Sistema com OOP, JSON e menu interativo | [Ver projeto](https://github.com/niromurilo/agenda-contatos-python) |
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 - Python 3
 - VS Code
 - Git e GitHub
 
 ---
 
-## 📊 Progresso geral
+## Progresso geral
 - Fundamentos: ✅ 13/13
 - Básico: ✅ 6/6
 - Intermediário: 🔄 5/10
